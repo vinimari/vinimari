@@ -5,7 +5,7 @@
 
 
 
-### Who am I?
+## Who am I?
 * 👩‍💻 Biomedical Informatics Student - UFPR 🥰
 * 🌱 I’m currently learning Data Science and Web Development. 
 ## Skills 
