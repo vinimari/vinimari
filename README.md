@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I'm Vinícius! 😆💻👋
 
-<!--
-**vinimari/vinimari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimari&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimari&layout=compact&theme=dracula)](https://github.com/viniamri/github-readme-stats)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Who am I?
+* 👩‍💻 Biomedical Informatics Student - UFPR 🥰
+* 🌱 I’m currently learning Data Science and Web Development. 
+## Skills 
+* 🐍 Python.
+* 🗄 SQL.
+* 🧮 Power BI.
+* 📊 Data Visualization
+* 💻 C. 
+* 🟡 JavaScript.
+* 🔵 CSS. 
+* 🟠 HTML.  
+## Find me around the world 🌎
+* [Linkedin](https://www.linkedin.com/in/viniciusmarinhoti/) 
+
