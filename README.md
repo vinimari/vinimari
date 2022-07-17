@@ -8,11 +8,10 @@
 * 🌱 I’m currently learning Data Science and Web Development. 
 ## Skills 
 * 🐍 Python.
-* 🗄 SQL.
 * 🧮 Power BI.
 * 📊 Data Visualization
-* 💻 C. 
-* 🟡 JavaScript.
+* 💻 C/C++. 
+* 🟡 JavaScript/TypeScripy.
 * 🔵 CSS. 
 * 🟠 HTML.  
 ## Find me around the world 🌎
