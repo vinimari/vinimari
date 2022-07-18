@@ -11,7 +11,7 @@
 * 🧮 Power BI.
 * 📊 Data Visualization
 * 💻 C/C++. 
-* 🟡 JavaScript/TypeScripy.
+* 🟡 JavaScript/TypeScript.
 * 🔵 CSS. 
 * 🟠 HTML.  
 ## Find me around the world 🌎
